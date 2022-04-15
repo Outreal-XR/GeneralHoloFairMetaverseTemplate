@@ -1,21 +1,14 @@
 {
   "dependencies": {
     "com.outrealxr.holomod": {
-      "version": "0.1.16",
+      "version": "https://github.com/Outreal-XR/HoloFair-SDK.git#0294d4dcc4deefa435e862d2e418c0ab27d66074",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "http://34.105.68.91:4873"
-    },
-    "com.outrealxr.modsutility": {
-      "version": "1.0.2",
-      "depth": 0,
-      "source": "registry",
+      "source": "git",
       "dependencies": {
-        "com.outrealxr.holomod": "0.1.16",
-        "com.unity.probuilder": "4.5.2"
+        "com.unity.addressables": "1.19.18",
+        "com.unity.textmeshpro": "3.0.4"
       },
-      "url": "http://34.105.68.91:4873"
+      "hash": "0294d4dcc4deefa435e862d2e418c0ab27d66074"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
@@ -30,11 +23,11 @@
       "dependencies": {}
     },
     "com.unity.addressables": {
-      "version": "1.17.17",
+      "version": "1.19.19",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.scriptablebuildpipeline": "1.17.0",
+        "com.unity.scriptablebuildpipeline": "1.19.6",
         "com.unity.modules.assetbundle": "1.0.0",
         "com.unity.modules.imageconversion": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0",
@@ -67,7 +60,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.7",
+      "version": "2.0.14",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -106,8 +99,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.probuilder": {
-      "version": "4.5.2",
-      "depth": 1,
+      "version": "4.5.0",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.settings-manager": "1.0.3"
@@ -154,7 +147,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.scriptablebuildpipeline": {
-      "version": "1.17.0",
+      "version": "1.19.6",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
@@ -185,7 +178,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.1.27",
+      "version": "1.1.31",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -196,8 +189,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.1",
-      "depth": 0,
+      "version": "3.0.4",
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "1.0.0"
@@ -205,7 +198,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-      "version": "1.4.7",
+      "version": "1.4.8",
       "depth": 0,
       "source": "registry",
       "dependencies": {
