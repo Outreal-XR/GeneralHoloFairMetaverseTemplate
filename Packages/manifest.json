@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.outrealxr.holomod": "https://github.com/Outreal-XR/HoloMod.git#a95ea0192a31806f01afb3b83336fbc5343d8dca",
+    "com.outrealxr.holomod": "https://github.com/Outreal-XR/HoloMod.git#0294d4dcc4deefa435e862d2e418c0ab27d66074",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.addressables": "1.19.19",
