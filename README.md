@@ -8,7 +8,7 @@ After that navigate to Project Window -> Assets -> Samples -> HoloFair SDK -> 1.
 ## Requirements
 - Unity3D 2020.3.3f1 (only)
 - Windows and WebGL build support (iOS and Android are up to you)
-- Complete knowledge of Addressables 1.19.18 (how to add, build and update addressables)
+- Complete knowledge of Addressables 1.19.18 (how to add, build and update addressables and create Addressables Groups)
 
 ## Important Notes
 Feel free to change Addressables Profiles to any end point of your CDN. As long as it has [BuildTarget] in the URL (e.g https://cdn.holofair.app/addressables/[BuildTarget]).
