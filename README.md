@@ -3,6 +3,8 @@ Get Started Unity3D project to create, configure, build and deploy HoloFair comp
 
 Once you open the project, make sure you navigate to Package Manager -> HoloFair SDK -> Samples -> Import HoloFair LWRP.
 
+After that navigate to Project Window -> Assets -> Samples -> HoloFair SDK -> 1.1.78 -> HoloFair LWRP -> Scenes to find sample scenes and learn how to setup the scenes and different environement interactions. More interactions are available on our gitbook.
+
 ## Requirements
 - Unity3D 2020.3.3f1 (only)
 - Windows and WebGL build support (iOS and Android are up to you)
