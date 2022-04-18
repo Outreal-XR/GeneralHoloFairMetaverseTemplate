@@ -1,6 +1,8 @@
 # HoloFair SDK with Template
 Get Started Unity3D project to create, configure, build and deploy HoloFair compatible interactive worlds.
 
+Once you open the project, make sure you navigate to Package Manager -> HoloFair SDK -> Samples -> Import HoloFair LWRP.
+
 ## Requirements
 - Unity3D 2020.3.3f1 (only)
 - Windows and WebGL build support (iOS and Android are up to you)
