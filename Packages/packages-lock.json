@@ -1,14 +1,14 @@
 {
   "dependencies": {
     "com.outrealxr.holomod": {
-      "version": "https://github.com/Outreal-XR/HoloFair-SDK.git#0294d4dcc4deefa435e862d2e418c0ab27d66074",
+      "version": "https://github.com/Outreal-XR/HoloFair-SDK.git#b1f9e05ec4c0557d8d2be44fe14ad999037c6545",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.addressables": "1.19.18",
         "com.unity.textmeshpro": "3.0.4"
       },
-      "hash": "0294d4dcc4deefa435e862d2e418c0ab27d66074"
+      "hash": "b1f9e05ec4c0557d8d2be44fe14ad999037c6545"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
