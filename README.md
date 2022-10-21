@@ -3,7 +3,7 @@ This is a "Get Started Unity3D project" to create, configure, build and deploy H
 
 Once you open the project, make sure you navigate to Package Manager -> HoloFair SDK -> Samples -> Import HoloFair LWRP.
 
-After that navigate to Project Window -> Assets -> Samples -> HoloFair SDK -> 3.0.53 -> HoloFair LWRP -> Scenes to find sample scenes and learn how to setup the scenes and different environement interactions. More instructions and guides are available on our [gitbook](https://docs.holofair.app).
+After that navigate to Project Window -> Assets -> Samples -> HoloFair SDK -> 3.0.53 -> HoloFair LWRP -> Scenes to find sample scenes and learn how to setup the scenes and different environement interactions. More instructions and guides are available on our [gitbook](https://docs.holofair.app). Please note, after you import the Samples the Scene Controllers inside Portals prefab will loose their reference to Scenes that they are supposed to load, so you will need to mark the Sample scenes as Addressables and reassign them in case you wish to explore them. Otherwise, feel free to skip the sample scenes and start creating your own.
 
 ## Requirements
 - Unity3D 2021.3.1f1 (only)
