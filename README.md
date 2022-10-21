@@ -1,5 +1,5 @@
 # General HoloFair Metaverse Template
-Get Started Unity3D project to create, configure, build and deploy HoloFair compatible interactive worlds.
+Get Started Unity3D project to create, configure, build and deploy HoloFair compatible metaverses.
 
 Once you open the project, make sure you navigate to Package Manager -> HoloFair SDK -> Samples -> Import HoloFair URP.
 
