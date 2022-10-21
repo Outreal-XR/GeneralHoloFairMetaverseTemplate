@@ -1,15 +1,15 @@
 # HoloFair SDK with Template
 Get Started Unity3D project to create, configure, build and deploy HoloFair compatible interactive worlds.
 
-Once you open the project, make sure you navigate to Package Manager -> HoloFair SDK -> Samples -> Import HoloFair LWRP.
+Once you open the project, make sure you navigate to Package Manager -> HoloFair SDK -> Samples -> Import HoloFair URP.
 
-After that navigate to Project Window -> Assets -> Samples -> HoloFair SDK -> 1.1.78 -> HoloFair LWRP -> Scenes to find sample scenes and learn how to setup the scenes and different environement interactions. More instructions are available on our gitbook.
+After that navigate to Project Window -> Assets -> Samples -> HoloFair SDK -> 3.0.53 -> HoloFair URP -> Scenes to find sample scenes and learn how to setup the scenes and different environement interactions. More instructions are available on our [gitbook](https://docs.holofair.app).
 
 ## Requirements
-- Unity3D 2020.3.3f1 (only)
+- Unity3D 2021.3.1f1 (only)
 - Windows and WebGL build support (iOS and Android are up to you)
-- Complete knowledge of Addressables 1.19.18 (how to add, build and update addressables and create or manage/configure Addressables Groups)
-- CDN of your choice (Bunny CDN, Cloudfare CDN, AWS S3 etc.)
+- Complete knowledge of Addressables 1.19.18 (how to add, build, optimize and update addressables and create or manage/configure Addressables Groups)
+- CDN of your choice (Bunny CDN, Cloudfare CDN, AWS CloudFront etc.)
 
 ## Important Notes
 Feel free to change Addressables Profiles to any end point of your CDN. As long as it has [BuildTarget] in the URL (e.g https://cdn.holofair.app/addressables/[BuildTarget]).
