@@ -13,6 +13,6 @@ After that navigate to Project Window -> Assets -> Samples -> HoloFair SDK -> 3.
 
 ## Important Notes
 Feel free to change Addressables Profiles to any end point of your CDN. As long as it has [BuildTarget] in the URL (e.g https://cdn.holofair.app/addressables/[BuildTarget]).
-At the same time, it is not reccomended to change any Player or Graphics settings as well as Packages and their versions. In case if you want to suggest an alternative setup or an addition, please, post on a issue with your idea, which we will read and try our best to make it work with HoloFair. Otherwise, if any changes made to the settings, then we can't gurantee that Addressables will load correctly or look the same as on your machine.
+At the same time, it is not reccomended to change any Player or Graphics settings as well as Packages and their versions. In Player Settings it is okay to change Company Name and Product Name and version if you wish so. In case if you want to suggest an alternative setup or an addition, please, post on a issue with your idea, which we will read and try our best to make it work with HoloFair. Otherwise, if any changes made to the settings, then we can't gurantee that Addressables will load correctly or look the same as on your machine.
 
 If you wish to learn more about the SDK itself, feel free to clone this package on your machine: https://github.com/Outreal-XR/HoloFair-SDK
