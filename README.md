@@ -10,6 +10,7 @@ After that navigate to Project Window -> Assets -> Samples -> HoloFair SDK -> 3.
 - Windows and WebGL build support (iOS and Android are up to you)
 - Complete knowledge of Addressables 1.19.18 (how to add, build, optimize and update addressables and create or manage/configure Addressables Groups)
 - CDN of your choice (Bunny CDN, Cloudfare CDN, AWS CloudFront etc.)
+- Make sure you have name for Layer 6, because that is the layer HoloFair uses as ground or Walkable layer, otherwise Players will be stuck inside geometry
 
 ## Important Notes
 Feel free to change Addressables Profiles to any end point of your CDN. As long as it has [BuildTarget] in the URL (e.g https://cdn.holofair.app/addressables/[BuildTarget]).
