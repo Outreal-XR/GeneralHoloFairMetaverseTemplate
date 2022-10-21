@@ -1,9 +1,9 @@
-# HoloFair SDK with Template
+# General HoloFair Metaverse Template
 Get Started Unity3D project to create, configure, build and deploy HoloFair compatible interactive worlds.
 
 Once you open the project, make sure you navigate to Package Manager -> HoloFair SDK -> Samples -> Import HoloFair URP.
 
-After that navigate to Project Window -> Assets -> Samples -> HoloFair SDK -> 3.0.53 -> HoloFair URP -> Scenes to find sample scenes and learn how to setup the scenes and different environement interactions. More instructions are available on our [gitbook](https://docs.holofair.app).
+After that navigate to Project Window -> Assets -> Samples -> HoloFair SDK -> 3.0.53 -> HoloFair URP -> Scenes to find sample scenes and learn how to setup the scenes and different environement interactions. More instructions and guides are available on our [gitbook](https://docs.holofair.app).
 
 ## Requirements
 - Unity3D 2021.3.1f1 (only)
