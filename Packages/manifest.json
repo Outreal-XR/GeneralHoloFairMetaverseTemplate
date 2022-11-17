@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.outrealxr.holomod": "3.0.60",
+    "com.outrealxr.holomod": "3.0.64",
     "com.outrealxr.logger": "0.0.1",
     "com.outrealxr.avatars": "1.1.7",
     "com.outrealxr.networkimages": "https://github.com/thedrhax14/NetworkImages.git",
