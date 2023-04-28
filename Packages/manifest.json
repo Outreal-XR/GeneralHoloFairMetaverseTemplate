@@ -64,7 +64,8 @@
       "scopes": [
         "com.github.siccity.xnode",
         "com.atteneder",
-        "com.nosuchstudio"
+        "com.nosuchstudio",
+        "com.cysharp"
       ]
     }
   ]
