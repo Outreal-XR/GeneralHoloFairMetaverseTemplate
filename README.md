@@ -10,6 +10,7 @@ Instructions and guides are available on our [gitbook](https://docs.holofair.app
 - CDN of your choice (Bunny CDN, Cloudfare CDN, AWS CloudFront etc.)
 - Make sure you have name for Layer 6, because that is the layer HoloFair uses as ground or Walkable layer, otherwise Players will be stuck inside geometry
 - Make sure to use Tag 1 for anything that a user should be able to click on
+- It only works with HoloFair 5.4.34-beta.24+
 
 ## Important Notes
 Feel free to change Addressables Profiles to any end point of your CDN. As long as it has [BuildTarget] in the URL (e.g https://cdn.holofair.app/addressables/[BuildTarget]).
