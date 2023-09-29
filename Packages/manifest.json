@@ -2,7 +2,7 @@
   "dependencies": {
     "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-    "com.outrealxr.holomod": "4.2.53",
+    "com.outrealxr.holomod": "4.2.54",
     "com.outrealxr.logger": "0.0.1",
     "com.sag.guid-references": "https://github.com/STARasGAMES/Guid-References.git#upm",
     "com.unity.2d.sprite": "1.0.0",
