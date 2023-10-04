@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git",
-    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.atteneder.gltfast": "4.8.3",
+    "com.github.siccity.xnode": "1.8.0",
+    "com.holofair.sdk.profile": "1.0.4",
+    "com.nosuchstudio.rtltmpro": "3.4.5",
     "com.outrealxr.holomod": "4.2.58",
     "com.outrealxr.logger": "0.0.1",
     "com.sag.guid-references": "https://github.com/STARasGAMES/Guid-References.git#upm",
@@ -9,14 +11,15 @@
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.addressables": "1.19.19",
     "com.unity.analytics": "3.6.12",
-    "com.unity.cinemachine": "2.8.4",
+    "com.unity.cinemachine": "2.9.5",
+    "com.unity.formats.fbx": "4.1.3",
     "com.unity.ide.visualstudio": "2.0.14",
     "com.unity.ide.vscode": "1.2.5",
     "com.unity.inputsystem": "1.3.0",
-    "com.unity.probuilder": "5.0.3",
+    "com.unity.probuilder": "5.0.6",
     "com.unity.recorder": "3.0.3",
     "com.unity.render-pipelines.universal": "12.1.6",
-    "com.unity.test-framework": "1.1.31",
+    "com.unity.test-framework": "1.3.2",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.6.4",
     "com.unity.toolchain.win-x86_64-linux-x86_64": "2.0.4",
@@ -34,6 +37,7 @@
     "com.unity.modules.physics": "1.0.0",
     "com.unity.modules.physics2d": "1.0.0",
     "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.terrainphysics": "1.0.0",
     "com.unity.modules.tilemap": "1.0.0",
     "com.unity.modules.ui": "1.0.0",
     "com.unity.modules.uielements": "1.0.0",
@@ -50,11 +54,11 @@
   },
   "scopedRegistries": [
     {
-      "name": "OXR",
+      "name": "outrealxr",
       "url": "http://15.184.152.124:4873",
       "scopes": [
-        "com.thedrhax14",
-        "com.outrealxr"
+        "com.outrealxr",
+        "com.holofair"
       ]
     },
     {
@@ -62,7 +66,9 @@
       "url": "https://package.openupm.com",
       "scopes": [
         "com.github.siccity.xnode",
-        "com.nosuchstudio"
+        "com.atteneder",
+        "com.nosuchstudio",
+        "com.cysharp"
       ]
     }
   ]
