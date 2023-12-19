@@ -4,13 +4,13 @@ This is a "Get Started Unity3D project" to create, configure, build and deploy H
 Instructions and guides are available on our [gitbook](https://docs.holofair.app). The next step after creating a repo from this is to [configure the addressables](https://outreal-xr.gitbook.io/holofair-sdk-v4/development/initial-setup/setup-addressables).
 
 ## Requirements
-- Unity3D 2021.3.1f1 (only)
+- Unity3D 2021.3.19f1 (only)
 - Windows and WebGL build support (iOS and Android are up to you)
 - Complete knowledge of Addressables 1.19.19 (how to add, build, optimize and update addressables and create or manage/configure Addressables Groups)
 - CDN of your choice (Bunny CDN, Cloudfare CDN, AWS CloudFront etc.)
 - Make sure you have name for Layer 6, because that is the layer HoloFair uses as ground or Walkable layer, otherwise Players will be stuck inside geometry
 - Make sure to use Tag 1 for anything that a user should be able to click on
-- It only works with HoloFair 5.4.40+
+- It only works with HoloFair 5.4.41+
 
 ## Important Notes
 Feel free to change Addressables Profiles to any end point of your CDN. As long as it has [BuildTarget] in the URL (e.g https://cdn.holofair.app/addressables/[BuildTarget]).

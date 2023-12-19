@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "com.atteneder.gltfast": "4.8.3",
-    "com.github.siccity.xnode": "1.8.0",
+    "com.atteneder.gltfast": "5.0.0",
     "com.holofair.sdk.profile": "1.0.4",
     "com.nosuchstudio.rtltmpro": "3.4.5",
     "com.outrealxr.holomod": "4.2.61",
